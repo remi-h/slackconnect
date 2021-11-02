@@ -1,6 +1,6 @@
 # slack connect
 
-```
+``` javascript
 function myFunction() {
   var activeSpreadsheet = SpreadsheetApp.getActiveSpreadsheet(); // スプレッドシート
   var activeSheet = activeSpreadsheet.getActiveSheet(); // アクティブシート
